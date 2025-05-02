@@ -4,8 +4,8 @@ This repository contains supplementary items for Hybrid Search in Langflow with 
 
 ## Contents
 
-1. `Hybrid Search RAG - Accuracy Week.json` - This Langflow flow can be imported directly and used. It contains a **read-only** access token for Astra DB, so you can get started quickly and easily.
-2. `ingest_squad_astra.py` - This contains Python code which will allow you to create your own Astra DB Collections that allow you to reproduce the results of this demo in your own database.
+1. `Hybrid Search RAG - Accuracy Week.json` - **REQUIRED to use the flow** - This Langflow flow can be imported directly and used. It contains a **read-only** access token for Astra DB, so you can get started quickly and easily.
+2. `ingest_squad_astra.py` - **OPTIONAL if you'd like to ingest your own collection** - This contains Python code which will allow you to create your own Astra DB Collections that allow you to reproduce the results of this demo in your own database.
 
 ## Instructions
 
